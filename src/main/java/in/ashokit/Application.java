@@ -14,6 +14,7 @@ public class Application {
 		int i=10;
 		int age=50;
 		int marks=80;
+		int k=40;
 
 		ConfigurableApplicationContext ctxt =
 				SpringApplication.run(Application.class, args);
