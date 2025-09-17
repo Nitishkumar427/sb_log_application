@@ -11,6 +11,7 @@ import in.ashokit.service.UserService;
 public class Application {
 
 	public static void main(String[] args) {
+		int i=10;
 
 		ConfigurableApplicationContext ctxt =
 				SpringApplication.run(Application.class, args);
